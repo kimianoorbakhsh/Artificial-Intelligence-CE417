@@ -25,3 +25,6 @@ Sharif University of Technology - Spring 2020
     
 7. MNIST NB:
     - [Image Classification task with Naive Bayes network algorithms on MNIST dataset (accuracy = 84.4%)](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/7.%20MNIST%20NB/mnist-nb.ipynb)
+  
+8. MNIST NB:
+    - [Applying Linear Regression and Regularization on "California House Prices" dataset](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/8.%20Regression)
