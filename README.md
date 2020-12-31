@@ -16,6 +16,7 @@ Sharif University of Technology - Spring 2020
     
 4. CSP (Constraint Satisfaction Problem):
     - [Using Backtracking and Arc-Consistency Algorithms for solving a game assignment problem in Basketball games](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/4.%20CSP/CSP.java)
+    - [Using CSP Algorithms for solving the Graph Coloring problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/4.%20CSP/treeCSP.py)
   
 5. Adversarial Search:
     - [My implementation of AIClient for the "Kalaha Game" (I only editted AIClient.java file with my Alpha-Beta algorithm)](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/5.%20Adversarial%20Search/src)
