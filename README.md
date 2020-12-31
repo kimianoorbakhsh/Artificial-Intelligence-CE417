@@ -12,4 +12,5 @@ Sharif University of Technology - Spring 2020
 3. Local Search algorithms:
     - [Using Hill Climbing Algorithm for solving Graph Bisection problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/3.%20Local%20Search/Hill_Climbing.py)
     - [Using Simulated Annealing Algorithm for solving Graph Bisection problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/3.%20Local%20Search/Simulated_Annealing.py)
+    - [Using Genetic Algorithm for solving a hypothetical chromosome problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/3.%20Local%20Search/Genetic.py)
   
