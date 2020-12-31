@@ -19,3 +19,6 @@ Sharif University of Technology - Spring 2020
   
 4. Adversarial Search:
     - [My implementation of AIClient for the "Kalaha Game" (I only editted AIClient.java file with my Alpha-Beta algorithm)](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/5.%20Adversarial%20Search/src)
+    
+5. Bayesian Networks:
+    - [Applying Variable Elimination in Bayesian Networks](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/6.%20Variable%20Elimination/Bayes_Net.py)
