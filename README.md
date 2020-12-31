@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Course-Projects
-Artificial Intelligence Course Projects (In progress)
+Artificial Intelligence Course Projects 
 
 Sharif University of Technology - Spring 2020
 
