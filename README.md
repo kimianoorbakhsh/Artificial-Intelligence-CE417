@@ -33,7 +33,7 @@ Sharif University of Technology - Spring 2020
 9. Others:
     - [Using BFS algorithm to solve a variation of the Packman game](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/9.%20Others)
     
-Bayesian Networks:
+10. Bayesian Networks:
     - [Analysing conditional independence in Bayesian Networks using D-Separation](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/Bayesian%20Networks/DSeparation.py)
     - [Sampling Algorithms in Bayesian Networks (Rejection Sampling, Likelihood Sampling, Gibbs Sampling)](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/Bayesian%20Networks/sample.py)
     - [Variable Elimination in Bayesian Networks](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/6.%20Variable%20Elimination/Bayes_Net.py)
