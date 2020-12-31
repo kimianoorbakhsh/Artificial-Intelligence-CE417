@@ -17,8 +17,11 @@ Sharif University of Technology - Spring 2020
 4. CSP (Constraint Satisfaction Problem):
     - [Using Backtracking and Arc-Consistency Algorithms for solving a game assignment problem in Basketball games](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/4.%20CSP/CSP.java)
   
-4. Adversarial Search:
+5. Adversarial Search:
     - [My implementation of AIClient for the "Kalaha Game" (I only editted AIClient.java file with my Alpha-Beta algorithm)](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/5.%20Adversarial%20Search/src)
     
-5. Bayesian Networks:
+6. Bayesian Networks:
     - [Applying Variable Elimination in Bayesian Networks](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/6.%20Variable%20Elimination/Bayes_Net.py)
+    
+7. MNIST NB:
+    - [Image Classification task with Naive Bayes network algorithms on MNIST dataset](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/7.%20MNIST%20NB/mnist-nb.ipynb)
