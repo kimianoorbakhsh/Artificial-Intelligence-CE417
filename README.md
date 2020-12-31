@@ -28,3 +28,6 @@ Sharif University of Technology - Spring 2020
   
 8. MNIST NB:
     - [Applying Linear Regression and Regularization on "California House Prices" dataset](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/8.%20Regression)
+    
+9. Others:
+    - [Using BFS algorithm to solve a variation of the Packman game](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/tree/main/9.%20Others)
