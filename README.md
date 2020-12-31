@@ -13,4 +13,7 @@ Sharif University of Technology - Spring 2020
     - [Using Hill Climbing Algorithm for solving Graph Bisection problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/3.%20Local%20Search/Hill_Climbing.py)
     - [Using Simulated Annealing Algorithm for solving Graph Bisection problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/3.%20Local%20Search/Simulated_Annealing.py)
     - [Using Genetic Algorithm for solving a hypothetical chromosome problem](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/3.%20Local%20Search/Genetic.py)
+    
+4. CSP (Constraint Satisfaction Problem):
+    - [Using Backtracking and Arc-Consistency Algorithms for solving a game assignment problem in Basketball games](https://github.com/kimianoorbakhsh/Artificial-Intelligence-Course-Projects/blob/main/4.%20CSP/CSP.java)
   
