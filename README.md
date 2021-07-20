@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Course-Projects
+# Artificial-Intelligence-CE417
 Artificial Intelligence Course Projects 
 
 Spring 2020
